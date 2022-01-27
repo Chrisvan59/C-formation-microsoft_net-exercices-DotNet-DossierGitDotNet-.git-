@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\formation microsoft_net\\exercices\\DotNet\\exercicemoi\\AccroismentDeLaPopulation\\AccroismentDeLaPopulation.csproj",
+      "projectUniqueName": "C:\\formation microsoft_net\\exercices\\DotNet\\DossierGitDotNet\\AccroismentDeLaPopulation\\AccroismentDeLaPopulation.csproj",
       "projectName": "AccroismentDeLaPopulation",
-      "projectPath": "C:\\formation microsoft_net\\exercices\\DotNet\\exercicemoi\\AccroismentDeLaPopulation\\AccroismentDeLaPopulation.csproj",
+      "projectPath": "C:\\formation microsoft_net\\exercices\\DotNet\\DossierGitDotNet\\AccroismentDeLaPopulation\\AccroismentDeLaPopulation.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\formation microsoft_net\\exercices\\DotNet\\exercicemoi\\AccroismentDeLaPopulation\\obj\\",
+      "outputPath": "C:\\formation microsoft_net\\exercices\\DotNet\\DossierGitDotNet\\AccroismentDeLaPopulation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

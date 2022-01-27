@@ -1,0 +1,4 @@
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\exercice2-calcul\exercice2-calcul\obj\Debug\net6.0\exercice2-calcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\exercice2-calcul\exercice2-calcul\obj\Debug\net6.0\exercice2-calcul.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\exercice2-calcul\exercice2-calcul\obj\Debug\net6.0\exercice2-calcul.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\exercice2-calcul\exercice2-calcul\obj\Debug\net6.0\exercice2-calcul.csproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qYRoJ88C1+DEBQC7ik45vthBqWdvJTLrxHrFre2xdlgm5ml2KWt5i4PxzR4mnrEBM7NI+sPkHhNc5HubdCPFEQ==",
+  "dgSpecHash": "C6qrO4SMBoEZT8P8bm4mEANZWza+hes+woH7hlnPdv+/BoxQwSGr0IozVcTkHgegkVzxliny6fkXTiG8oMPRmA==",
   "success": true,
-  "projectFilePath": "C:\\formation microsoft_net\\exercices\\DotNet\\exercicemoi\\taxe\\taxe.csproj",
+  "projectFilePath": "C:\\formation microsoft_net\\exercices\\DotNet\\DossierGitDotNet\\taxe\\taxe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

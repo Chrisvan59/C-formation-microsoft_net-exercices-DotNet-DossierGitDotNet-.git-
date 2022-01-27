@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1nz/8u2Ieqzd5meE1n77N2iAYS8cfooaqR43DNZWtDz2TO8F/8rTycH3epnf0sTjgozaDOqPTnLB4honAAATKw==",
+  "dgSpecHash": "UZ5hlMpLNue5flNIzJIyJpTMG1UKNwlVLbisk0LTrUk2Ny7PdXwvNayeuSvDkdn2dj3rY+nm8iBoqklGAz1i/w==",
   "success": true,
-  "projectFilePath": "C:\\formation microsoft_net\\exercices\\DotNet\\exercicemoi\\calculImpot\\calculImpot.csproj",
+  "projectFilePath": "C:\\formation microsoft_net\\exercices\\DotNet\\DossierGitDotNet\\calculImpot\\calculImpot.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

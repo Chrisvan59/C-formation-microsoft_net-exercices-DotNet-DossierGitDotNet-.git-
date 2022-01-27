@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\bin\Debug\net6.0\methode.exe
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\bin\Debug\net6.0\methode.deps.json
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\bin\Debug\net6.0\methode.runtimeconfig.json
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\bin\Debug\net6.0\methode.dll
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\bin\Debug\net6.0\ref\methode.dll
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\bin\Debug\net6.0\methode.pdb
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\obj\Debug\net6.0\methode.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\obj\Debug\net6.0\methode.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\obj\Debug\net6.0\methode.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\obj\Debug\net6.0\methode.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\obj\Debug\net6.0\methode.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\obj\Debug\net6.0\methode.dll
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\obj\Debug\net6.0\ref\methode.dll
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\obj\Debug\net6.0\methode.pdb
+C:\formation microsoft_net\exercices\html\portfolio\images\methode\methode\obj\Debug\net6.0\methode.genruntimeconfig.cache

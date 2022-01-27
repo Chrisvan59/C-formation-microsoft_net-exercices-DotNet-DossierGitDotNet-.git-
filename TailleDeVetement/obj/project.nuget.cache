@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P0oS5WbOHVXQfy9FLAyWkMLdt25FnwkahFPIBOChZXE73jFaDzjTN31hjlGImdz37zJBOkkapRvBJIR1yWGpAA==",
+  "dgSpecHash": "kWjCNN0beNNx0e1zOXhJYuWge7Tpjy62Ags7CtrXYyz1zXgUXW3NsFLdIuJGQLOceNs97aDRcHVBPWOG5drThg==",
   "success": true,
-  "projectFilePath": "C:\\formation microsoft_net\\exercices\\DotNet\\exercicemoi\\TailleDeVetement\\TailleDeVetement.csproj",
+  "projectFilePath": "C:\\formation microsoft_net\\exercices\\DotNet\\DossierGitDotNet\\TailleDeVetement\\TailleDeVetement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\obj\Debug\net6.0\TpFonctionProcedure.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\obj\Debug\net6.0\TpFonctionProcedure.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\obj\Debug\net6.0\TpFonctionProcedure.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\obj\Debug\net6.0\TpFonctionProcedure.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\obj\Debug\net6.0\TpFonctionProcedure.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\bin\Debug\net6.0\TpFonctionProcedure.exe
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\bin\Debug\net6.0\TpFonctionProcedure.deps.json
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\bin\Debug\net6.0\TpFonctionProcedure.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\bin\Debug\net6.0\TpFonctionProcedure.dll
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\bin\Debug\net6.0\ref\TpFonctionProcedure.dll
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\bin\Debug\net6.0\TpFonctionProcedure.pdb
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\obj\Debug\net6.0\TpFonctionProcedure.dll
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\obj\Debug\net6.0\ref\TpFonctionProcedure.dll
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\obj\Debug\net6.0\TpFonctionProcedure.pdb
+C:\formation microsoft_net\exercices\DotNet\DossierGitDotNet\TpFonctionProcedure\TpFonctionProcedure\obj\Debug\net6.0\TpFonctionProcedure.genruntimeconfig.cache

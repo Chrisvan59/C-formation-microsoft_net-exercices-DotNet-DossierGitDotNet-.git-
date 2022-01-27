@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ElPsl6Kw88QAKVCbLhYghF5ycj3SairPV10wJArEqbNuSSXdGSVMCvQLecPNYcML11ZHkidUDaSHKLHEqc/QJw==",
+  "dgSpecHash": "kIDVLW3bztSyGjiKHX5ijUNIWVOg2guQoQ2IuKb9o/SYMOnB8+xW82lPLzzVg75QO1GjJVCiiBedY0WqTEqEng==",
   "success": true,
-  "projectFilePath": "C:\\formation microsoft_net\\exercices\\DotNet\\exercicemoi\\CalculUnCarre\\CalculUnCarre.csproj",
+  "projectFilePath": "C:\\formation microsoft_net\\exercices\\DotNet\\DossierGitDotNet\\CalculUnCarre\\CalculUnCarre.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
